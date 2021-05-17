@@ -19,5 +19,5 @@
 - My recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/gkoenig/strimzi-jaeger-eval/issues/1) in [gkoenig/strimzi-jaeger-eval](https://github.com/gkoenig/strimzi-jaeger-eval)
+1. ❗️ Opened issue [#2](https://github.com/gkoenig/strimzi-jaeger-eval/issues/2) in [gkoenig/strimzi-jaeger-eval](https://github.com/gkoenig/strimzi-jaeger-eval)
 <!--END_SECTION:activity-->
