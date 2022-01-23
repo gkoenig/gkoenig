@@ -18,7 +18,7 @@
 
 <h4>  💻 My GitHub trophies </h4> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkoenig&theme=onedark)](https://github.com/gkoenig/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gkoenig&theme=onedark&margin-w=15&margin-h=10&no-frame=true)](https://github.com/gkoenig/github-profile-trophy)
   
 <h3>  My recent GitHub activity</h3>
 
