@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <b>  🔭 I’m working on </b>
-  - all things _containers_ and _K8s_
+  - all things _containers_ , _K8s_ and _Cloud_
   - platform _automation_ via _Infrastructure As Code_ approach
   - **Observability** , this is key for your environment
   - disposable infrastructure
